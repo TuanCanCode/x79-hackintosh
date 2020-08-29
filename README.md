@@ -7,7 +7,7 @@ Here is my PC's full specifications:
 - Memory: 2x 8gb OCW ECC Registered Memory 1866MHz DDR3
 - Graphics Card: HIS RX 480 IceQ X² Roaring Turbo 8GB
 - PSU: Aerocool 400w 
-
+- Network: Wifi card BCM94331CSAX 
 =============================================
 I have modifed my EFI base on this https://github.com/m1qnet/X79-Hackintosh-Catalina/tree/master/EFI
 =============================================
